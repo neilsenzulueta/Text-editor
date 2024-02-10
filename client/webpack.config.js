@@ -33,7 +33,7 @@ module.exports = () => {
         inject: true,
         name: 'Just Another Text Editor',
         short_name: 'J.A.TE.',
-        description: 'Never forget your contacts!',
+        description: 'Take notes with Javascript syntax highlighting!',
         background_color: '#225ca3',
         theme_color: '#225ca3',
         start_url: './',
