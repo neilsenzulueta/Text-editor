@@ -25,7 +25,7 @@ Once all packages are properly installed. Use command `npm run build` to bundle 
   
 ![Alt text](<assets/images/Text-editor img.png>)
 
-[Render deployment] (https://word-reviser.onrender.com)
+[Render deployment](https://word-reviser.onrender.com)
 
 ## Credits
 
